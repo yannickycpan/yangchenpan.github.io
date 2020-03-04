@@ -19,7 +19,7 @@ ICLR, 2020.
 - [Incremental truncated LSTD](https://arxiv.org/abs/1511.08495). Clement Gehring, *Yangchen Pan*, Martha White. IJCAI 2016.
 
 ### Preprints
-
+- [Efficient Sampling Distribution for Dyna-style planning in Model-based Reinforcement Learning](). *Yangchen Pan*, Jincheng Mei, Amir-massoud Farahmand, Martha White, Hengshuai Yao. Under Review. 2020.
 - [An implicit function learning approach for parametric modal regression](https://arxiv.org/abs/2002.06195). *Yangchen Pan*, Ehsan Imani, Martha White, Amir-massoud Farahmand. Under Review. 2020.
 - [Leaky Tiling Activations: A Simple Approach to Learning Sparse Representations Online](https://arxiv.org/abs/1911.08068). *Yangchen Pan*, Kirby Banman, White Martha. Under Review. 2020.
 - [Actor-expert: A framework for using action-value methods in continuous action spaces](https://arxiv.org/abs/1810.09103). Sungsu Lim, Ajin Joseph, Lei Le, *Yangchen Pan*, Martha White. 2020.
