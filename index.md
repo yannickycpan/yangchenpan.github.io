@@ -10,7 +10,7 @@ I am broadly interested in machine learning and reinforcement learning. My most 
 ICLR, 2020.
 - [Frequency-based Search-control in Dyna](https://openreview.net/forum?id=B1gskyStwr). **Yangchen Pan**, Jincheng Mei, Amir-massoud Farahmand. ICLR, 2020.
 - [Hill Climbing on Value Estimates for Search-control in Dyna](https://arxiv.org/abs/1906.07791). **Yangchen Pan**, Hengshuai Yao, Amir-massoud Farahmand, Martha White. IJCAI, 2019.
-- [Reinforcement learning with function-valued action spaces for partial differential equation control](https://arxiv.org/abs/1806.06931). Yangchen Pan, Amir-massoud Farahmand, Martha White, Saleh Nabi, Piyush Grover, Daniel Nikovski. ICML 2018.
+- [Reinforcement learning with function-valued action spaces for partial differential equation control](https://arxiv.org/abs/1806.06931). **Yangchen Pan**, Amir-massoud Farahmand, Martha White, Saleh Nabi, Piyush Grover, Daniel Nikovski. ICML 2018.
 -	[Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains](https://arxiv.org/abs/1806.04624). 
 **Yangchen Pan**, Muhammad Zaheer, Adam White, Andrew Patterson, Martha White. IJCAI 2018.
 - [Adapting kernel representations online using submodular maximization](http://proceedings.mlr.press/v70/schlegel17a.html). Matthew Schlegel, **Yangchen Pan**, Jiecao Chen, Martha White. ICML 2017.
