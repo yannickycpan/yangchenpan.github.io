@@ -4,7 +4,7 @@ I am broadly interested in machine learning and reinforcement learning. My most 
 
 ## Publications
 
-### Rigorously Referred Papers
+### Rigorously Referred Publications
 
 - [Maxmin Q-learning: Controlling the Estimation Bias of Q-learning](). Qingfeng Lan, *Yangchen Pan*, Alona Fyshe, Martha White.
 ICLR, 2020.
