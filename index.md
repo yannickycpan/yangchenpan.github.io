@@ -6,6 +6,8 @@ I am broadly interested in machine learning and reinforcement learning. My most 
 
 ### Rigorously Referred Publications
 
+- [An implicit function learning approach for parametric modal regression](https://arxiv.org/abs/2002.06195). **Yangchen Pan**, Ehsan Imani, Martha White, Amir-massoud Farahmand. NeurIPS 2020.
+
 - [Maxmin Q-learning: Controlling the Estimation Bias of Q-learning](https://openreview.net/forum?id=Bkg0u3Etwr). Qingfeng Lan, **Yangchen Pan**, Alona Fyshe, Martha White. ICLR, 2020.
 
 - [Frequency-based Search-control in Dyna](https://openreview.net/forum?id=B1gskyStwr). **Yangchen Pan**, Jincheng Mei, Amir-massoud Farahmand. ICLR, 2020.
@@ -27,8 +29,6 @@ I am broadly interested in machine learning and reinforcement learning. My most 
 ### Preprints
 - [Efficient Sampling Distribution for Dyna-style planning in Model-based Reinforcement Learning](). **Yangchen Pan**, Jincheng Mei, Amir-massoud Farahmand, Martha White, Hengshuai Yao. Under Review. 2020.
 
-- [An implicit function learning approach for parametric modal regression](https://arxiv.org/abs/2002.06195). **Yangchen Pan**, Ehsan Imani, Martha White, Amir-massoud Farahmand. Under Review. 2020.
-
 - [Leaky Tiling Activations: A Simple Approach to Learning Sparse Representations Online](https://arxiv.org/abs/1911.08068). **Yangchen Pan**, Kirby Banman, White Martha. Under Review. 2020.
 
 - [Actor-expert: A framework for using action-value methods in continuous action spaces](https://arxiv.org/abs/1810.09103). Sungsu Lim, Ajin Joseph, Lei Le, **Yangchen Pan**, Martha White. 2020.
@@ -37,7 +37,7 @@ I am broadly interested in machine learning and reinforcement learning. My most 
 
 ### Conference Program Committee Member, Reviewer
 
-NeurIPS 2018, ICML 2019, AAAI 2019, ICLR 2020, NeurIPS 2020, AAAI 2020, AAAI 2021, ICLR 2021
+NeurIPS 2018, ICML 2019, AAAI 2019, ICLR 2020, NeurIPS 2020, AAAI 2020, AAAI 2021, ICLR 2021, AISTATS 2021.
 
 ### Conference Sub-reviewer
 
