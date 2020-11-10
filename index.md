@@ -4,7 +4,7 @@ I am broadly interested in machine learning and reinforcement learning. My most 
 
 ## Publications
 
-### Referred Conference Publications
+### Refereed Conference Publications
 
 - [An implicit function learning approach for parametric modal regression](https://arxiv.org/abs/2002.06195). **Yangchen Pan**, Ehsan Imani, Martha White, Amir-massoud Farahmand. Conference on Neural Information Processing Systems (**NeurIPS**), 2020.
 
