@@ -12,7 +12,7 @@ I am broadly interested in machine learning and reinforcement learning. My most 
   **Yangchen Pan**, Kirby Banman, White Martha.  
   International Conference on Learning Representations (**ICLR**), 2021.
 
-- An implicit function learning approach for parametric modal regression. [[paper]](https://arxiv.org/abs/2002.06195). 
+- An implicit function learning approach for parametric modal regression. [[paper]](https://arxiv.org/abs/2002.06195)  
   **Yangchen Pan**, Ehsan Imani, Martha White, Amir-massoud Farahmand.  
   Conference on Neural Information Processing Systems (**NeurIPS**), 2020.
 
