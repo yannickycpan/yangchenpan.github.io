@@ -54,7 +54,7 @@ I am broadly interested in machine learning and reinforcement learning. My most 
 
 ### Preprints/Workshop/Work in progress
 - Beyond Prioritized Replay: Sampling States in Model-Based RL via Simulated Priorities. [[paper]](https://arxiv.org/abs/2007.09569)  
-  Jincheng Mei *, \* **Yangchen Pan** *, Amir-massoud Farahmand, Martha White, Hengshuai Yao.  
+  Jincheng Mei *, **Yangchen Pan** *, Amir-massoud Farahmand, Martha White, Hengshuai Yao.  
   Preprint. Work in progress. 2021.
 
 - Actor-expert: A framework for using action-value methods in continuous action spaces. [[paper]](https://arxiv.org/abs/1810.09103)  
