@@ -8,60 +8,60 @@ I am broadly interested in machine learning and reinforcement learning. My most 
 
    \* indicates co-first authorship. 
 
-- [Leaky Tiling Activations: A Simple Approach to Learning Sparse Representations Online](https://openreview.net/forum?id=zElset1Klrp).  
+- Leaky Tiling Activations: A Simple Approach to Learning Sparse Representations Online. [[paper]](https://openreview.net/forum?id=zElset1Klrp)  
   **Yangchen Pan**, Kirby Banman, White Martha.  
   International Conference on Learning Representations (**ICLR**), 2021.
 
-- [An implicit function learning approach for parametric modal regression](https://arxiv.org/abs/2002.06195).  
+- An implicit function learning approach for parametric modal regression. [[paper]](https://arxiv.org/abs/2002.06195). 
   **Yangchen Pan**, Ehsan Imani, Martha White, Amir-massoud Farahmand.  
   Conference on Neural Information Processing Systems (**NeurIPS**), 2020.
 
-- [Maxmin Q-learning: Controlling the Estimation Bias of Q-learning](https://openreview.net/forum?id=Bkg0u3Etwr).  
+- Maxmin Q-learning: Controlling the Estimation Bias of Q-learning. [[paper]](https://openreview.net/forum?id=Bkg0u3Etwr)  
   Qingfeng Lan, **Yangchen Pan**, Alona Fyshe, Martha White.  
   International Conference on Learning Representations (**ICLR**), 2020.
 
-- [Frequency-based Search-control in Dyna](https://openreview.net/forum?id=B1gskyStwr).  
-  \* **Yangchen Pan**, \* Jincheng Mei, Amir-massoud Farahmand.  
+- Frequency-based Search-control in Dyna. [[paper]](https://openreview.net/forum?id=B1gskyStwr)  
+  **Yangchen Pan** *, Jincheng Mei *, Amir-massoud Farahmand.  
   International Conference on Learning Representations (**ICLR**), 2020.
 
-- [Hill Climbing on Value Estimates for Search-control in Dyna](https://arxiv.org/abs/1906.07791).  
+- Hill Climbing on Value Estimates for Search-control in Dyna. [[paper]](https://arxiv.org/abs/1906.07791)  
   **Yangchen Pan**, Hengshuai Yao, Amir-massoud Farahmand, Martha White.  
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2019.
 
-- [Reinforcement learning with function-valued action spaces for partial differential equation control](https://arxiv.org/abs/1806.06931).  
+- Reinforcement learning with function-valued action spaces for partial differential equation control. [[paper]](https://arxiv.org/abs/1806.06931)  
   **Yangchen Pan**, Amir-massoud Farahmand, Martha White, Saleh Nabi, Piyush Grover, Daniel Nikovski.  
   International Conference on Machine Learning (**ICML**), 2018.
 
--	[Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains](https://arxiv.org/abs/1806.04624).  
+- Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains. [[paper]](https://arxiv.org/abs/1806.04624)  
   **Yangchen Pan**, Muhammad Zaheer, Adam White, Andrew Patterson, Martha White.  
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2018.
 
-- [Adapting kernel representations online using submodular maximization](http://proceedings.mlr.press/v70/schlegel17a.html).  
+- Adapting kernel representations online using submodular maximization. [[paper]](http://proceedings.mlr.press/v70/schlegel17a.html)  
   Matthew Schlegel, **Yangchen Pan**, Jiecao Chen, Martha White.  
   International Conference on Machine Learning (**ICML**), 2017.
 
-- [Effective sketching methods for value function approximation](https://arxiv.org/abs/1708.01298).  
+- Effective sketching methods for value function approximation. [[paper]](https://arxiv.org/abs/1708.01298)  
   **Yangchen Pan**, Erfan Sadeqi Azer, Martha White.  
   Conference on Uncertainty in Artificial Intelligence (**UAI**), 2017.
 
-- [Accelerated gradient temporal difference learning](https://arxiv.org/abs/1611.09328).  
+- Accelerated gradient temporal difference learning. [[paper]](https://arxiv.org/abs/1611.09328)  
   **Yangchen Pan**, Adam White, Martha White.  
   AAAI Conference on Artificial Intelligence (**AAAI**), 2017.
 
-- [Incremental truncated LSTD](https://arxiv.org/abs/1511.08495).  
+- Incremental truncated LSTD. [[paper]](https://arxiv.org/abs/1511.08495)  
   Clement Gehring, **Yangchen Pan**, Martha White.  
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2016.
 
 ### Preprints/Workshop/Work in progress
-- [Beyond Prioritized Replay: Sampling States in Model-Based RL via Simulated Priorities](https://arxiv.org/abs/2007.09569).  
-  \* Jincheng Mei, \* **Yangchen Pan**, Amir-massoud Farahmand, Martha White, Hengshuai Yao.  
+- Beyond Prioritized Replay: Sampling States in Model-Based RL via Simulated Priorities. [[paper]](https://arxiv.org/abs/2007.09569)  
+  Jincheng Mei *, \* **Yangchen Pan** *, Amir-massoud Farahmand, Martha White, Hengshuai Yao.  
   Preprint. Work in progress. 2021.
 
-- [Actor-expert: A framework for using action-value methods in continuous action spaces](https://arxiv.org/abs/1810.09103).  
+- Actor-expert: A framework for using action-value methods in continuous action spaces. [[paper]](https://arxiv.org/abs/1810.09103)  
   Sungsu Lim, Ajin Joseph, Lei Le, **Yangchen Pan**, Martha White.  
   Preprint. Work in progress. 2021.
 
-- [Accelerated Gradient Temporal Difference Learning](https://arxiv.org/abs/1611.09328).  
+- Accelerated Gradient Temporal Difference Learning. [[paper]](https://arxiv.org/abs/1611.09328)  
   **Yangchen Pan**, Adam White, Martha White.  
   European workshop on reinforcement learning (EWRL), 2017.
 
@@ -69,11 +69,19 @@ I am broadly interested in machine learning and reinforcement learning. My most 
 
 ### Conference Program Committee Member, Reviewer
 
-NeurIPS 2018, ICML 2019, AAAI 2019, ICLR 2020, NeurIPS 2020, AAAI 2020, AAAI 2021, ICLR 2021, AISTATS 2021.
+NeurIPS 2018, 2020.  
+ICML 2019, 2021.  
+ICLR 2020, 2021.  
+AISTATS 2021.  
+AAAI 2019-2021.  
 
 ### Conference Sub-reviewer
 
-AAAI 2017, ICLR 2017, AAAI 2018, AAMAS 2018, ICML 2018, ICLR 2019, NeurIPS 2020
+NeurIPS 2020.  
+ICML 2018.  
+ICLR 2017, 2019.  
+AAAI 2017, 2018.  
+AAMAS 2018.  
 
 ### Journal Reviewer
 
