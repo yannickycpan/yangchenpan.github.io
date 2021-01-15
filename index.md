@@ -1,6 +1,6 @@
 I am Yangchen Pan ([Google Scholar](https://scholar.google.ca/citations?user=QyAsyYEAAAAJ&hl=en)), a PhD candidate in the Department of Computing Science, University of Alberta. 
 My PhD advisors are Dr. [Martha White (University of Alberta)](https://webdocs.cs.ualberta.ca/~whitem/) and Dr. [Amir-massoud Farahmand (University of Toronto & Vector Institute)](http://academic.sologen.net). 
-I am broadly interested in machine learning and reinforcement learning. My most recent work includes model-based reinforcement learning, representation learning, parametric modal regression. 
+I am broadly interested in machine learning, deep learning, and reinforcement learning. My most recent work includes model-based reinforcement learning, representation learning, parametric modal regression. 
 
 ## Publications
 
