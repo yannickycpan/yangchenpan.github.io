@@ -8,7 +8,7 @@ I am broadly interested in machine learning, deep learning, and reinforcement le
 
    \* indicates co-first authorship. 
 
-- Leaky Tiling Activations: A Simple Approach to Learning Sparse Representations Online. [[paper]](https://openreview.net/forum?id=zElset1Klrp)  
+- Fuzzy Tiling Activations: A Simple Approach to Learning Sparse Representations Online. [[paper]](https://openreview.net/forum?id=zElset1Klrp)  
   **Yangchen Pan**, Kirby Banman, White Martha.  
   International Conference on Learning Representations (**ICLR**), 2021.
 
