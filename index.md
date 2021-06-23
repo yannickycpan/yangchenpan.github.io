@@ -9,7 +9,7 @@ I am broadly interested in machine learning, deep learning, and reinforcement le
       - A special class of PDE control problems: dealing with arbitrarily high-dimensional continuous action space
       - Bias-variance control in Q-learning
 - Deep learning
-   - Representation interference/catestrophic forgetting problem: a natural sparsity direction
+   - Representation interference/catastrophic forgetting problem: a natural sparsity direction
 - Conventional machine learning
    - Parametric modal regression
    - Semi-supervised learning: how to leverage unlabled data to improve generalization
@@ -81,7 +81,7 @@ I am broadly interested in machine learning, deep learning, and reinforcement le
 
 ### Conference Program Committee Member, Reviewer
 
-NeurIPS 2018, 2020.  
+NeurIPS 2018, 2020, 2021.  
 ICML 2019, 2021.  
 ICLR 2020, 2021.  
 AISTATS 2021.  
